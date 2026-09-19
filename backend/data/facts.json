@@ -1,0 +1,21 @@
+{
+    "full_name": "Khushbu Pandit",
+    "name": "Khushbu",
+    "current_role": "Data Scientist",
+    "location": "India",
+    "email": "khushbu.pandit@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/kspandit/",
+    "specialties": [
+      "Data Science",
+      "AI",
+      "Machine Learning"
+    ],
+    "years_experience": 5,
+    "education": [
+      {
+        "degree": "Masters of SCience",
+        "institution": "Indian Institute of Technology, Kanpur",
+        "year": "2020"
+      }
+    ]
+  }
